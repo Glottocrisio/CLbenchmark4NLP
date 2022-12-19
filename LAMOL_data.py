@@ -4,7 +4,7 @@
 # Copyrights licensed under the MIT License.                                   #
 # See the accompanying LICENSE file for terms.                                 #
 #                                                                              #
-# Date: 09-12-2022                                                               #
+# Date: 09-12-2022                                                             #
 # Author: Cosimo Palma                                                         #
 # E-mail: cosimo.palma@phd.unipi.it                                            #
 ################################################################################
@@ -31,8 +31,8 @@
 #In order to unify the format of all the dataset, we first ran the code in https://github.com/salesforce/decaNLP to get the first 10 tranformed dataset, and then converted them into Squad-like format. For the last 5 dataset, we converted them directly. All converted dataset are available at 
 #https://drive.google.com/u/0/uc?id=1rWcgnVcNpwxmBI3c5ovNx-E8XKOEL77S&export=download.
   
-LAMOL = (#"LAMOL.tar.gz",
-    "https://drive.google.com/u/0/uc?id=1rWcgnVcNpwxmBI3c5ovNx-E8XKOEL77S&export=download",  
+LAMOL = ("LAMOL.tar.gz",
+    "https://drive.google.com/u/0/uc?id=1rWcgnVcNpwxmBI3c5ovNx-E8XKOEL77S&export=download&confirm=t&uuid=cfd0d6e3-bfa4-42f4-b70a-38a6878bdd5c&at=AHV7M3eQSwoYxhhE_IXZnNZwoeAD:1671041679236",  
     "97230c504ffd47808fbcb8bde4aad912",
 )
 
